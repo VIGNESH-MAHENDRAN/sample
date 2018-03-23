@@ -1,2 +1,8 @@
 # sample
-for practise
+
+#include<stdio.h>
+
+main()
+{
+printf("Hellloooo");
+}
